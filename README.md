@@ -1,7 +1,7 @@
 currently learning C and Javascript
 
 if u wanna talk :
-- Discord : @defnotkhalyl
+- Discord : @imshinyu
 - Email : imshinyuu@gmail.com
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/imshinyuu)
