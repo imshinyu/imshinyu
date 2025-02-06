@@ -4,7 +4,15 @@ if u wanna talk :
 - Discord : @imshinyu
 - Email : imshinyuu@gmail.com
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/imshinyuu)
-
-[![imshinyu's GitHub stats](https://github-readme-stats.vercel.app/api?username=imshinyu&show_icons=true&theme=radical)](https://github.com/imshinyu)
-<br>
+<div style="display: flex;">
+  <div>
+    <a href="https://ko-fi.com/imshinyuu">
+      <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="ko-fi">
+    </a>
+  </div>
+  <div>
+    <a href="https://github.com/imshinyu">
+      <img src="https://github-readme-stats.vercel.app/api?username=imshinyu&show_icons=true&theme=radical" alt="imshinyu's GitHub stats">
+    </a>
+  </div>
+</div>
