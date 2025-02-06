@@ -4,7 +4,7 @@ if u wanna talk :
 - Discord : @defnotkhalyl
 - Email : defnotkhalyl@gmail.com
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/khalylexe)
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/imshinyuu)
 
-[![Khalylexe's GitHub stats](https://github-readme-stats.vercel.app/api?username=Khalylexe&show_icons=true&theme=radical)](https://github.com/Khalylexe)
+[![imshinyu's GitHub stats](https://github-readme-stats.vercel.app/api?username=imshinyu&show_icons=true&theme=radical)](https://github.com/imshinyu)
 <br>
