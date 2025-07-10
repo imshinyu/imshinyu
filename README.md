@@ -1,7 +1,6 @@
 currently learning C and Javascript
 
 if u wanna talk :
-- Discord : @imshinyu
 - Email : defnotkhalyl@gmail.com
 
 <div style="display: flex;">
