@@ -1,5 +1,3 @@
-currently learning C and Javascript
-
 if u wanna talk :
 - Email : defnotkhalyl@gmail.com
 
