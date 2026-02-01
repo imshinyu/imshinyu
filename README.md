@@ -7,9 +7,4 @@ if u wanna talk :
       <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="ko-fi">
     </a>
   </div>
-  <div>
-    <a href="https://github.com/imshinyu">
-      <img src="https://github-readme-stats.vercel.app/api?username=imshinyu&show_icons=true&theme=radical" alt="imshinyu's GitHub stats">
-    </a>
-  </div>
 </div>
